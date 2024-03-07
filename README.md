@@ -1,2 +1,2 @@
 # first-project---demo
-this is my first repositry
+This is my first repositry
